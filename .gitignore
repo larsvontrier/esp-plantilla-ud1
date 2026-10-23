@@ -1,0 +1,11 @@
+# entorno virtual y temporales de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
